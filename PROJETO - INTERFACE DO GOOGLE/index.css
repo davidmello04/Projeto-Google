@@ -35,14 +35,18 @@ body {
 .menu-rigth .menu-link {
   padding: 12px 15px;
   font-size: 1.1rem;
-  font-weight: 600;
-  color: #1f1c1c;
+  font-weight: 550;
+  color: #000000;
 }
 
 .menu-rigth .ícone-menu {
-  width: 25px;
-  height: 25px;
-  margin-right: 2px;
+  width: 23px;
+  margin-right: 18px;
+}
+
+.ícone-menu {
+  margin-left: 12px;
+  margin-right: 12px;
 }
 
 .menu-profile {
@@ -54,18 +58,8 @@ body {
 
 .menu-img {
   width: 40px;
-  height: 40px;
   margin-left: 10px;
   border-radius: 50%;
-}
-
-.menu-img-frame {
-  width: 48px;
-  height: 48x;
-  margin-left: 10px;
-  position: absolute;
-  top: 0px;
-  left: 0px;
 }
 
 a {
